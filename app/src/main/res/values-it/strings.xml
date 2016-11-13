@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPM P2</string>
+    <string name="cat_name">Agiungere una nuova categoria</string>
+    <string name="accept">Accettare</string>
+    <string name="Edit">Modifica</string>
+    <string name="Delete">Rimuovere</string>
+    <string name="cancel">Annullare</string>
+    <string name="edit_cat">Modificare una categoria</string>
+    <string name="elem_name">Aggiungere un nuovo oggetto</string>
+    <string name="edit_elem">Modificare un oggetto</string>
+    <string name="Close">Vicino</string>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/victor/AndroidStudioProjects/FragmentBasics1/app/build/intermediates/res/merged/debug/menu/context_menu.xml",
+        "source": "/home/victor/AndroidStudioProjects/FragmentBasics1/app/src/main/res/menu/context_menu.xml"
+    },
+    {
+        "merged": "/home/victor/AndroidStudioProjects/FragmentBasics1/app/build/intermediates/res/merged/debug/menu/context_menu_elem.xml",
+        "source": "/home/victor/AndroidStudioProjects/FragmentBasics1/app/src/main/res/menu/context_menu_elem.xml"
+    },
+    {
+        "merged": "/home/victor/AndroidStudioProjects/FragmentBasics1/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/home/victor/AndroidStudioProjects/FragmentBasics1/app/src/main/res/menu/menu.xml"
+    }
+]

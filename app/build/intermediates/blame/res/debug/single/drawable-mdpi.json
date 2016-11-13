@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/victor/AndroidStudioProjects/FragmentBasics1/app/build/intermediates/res/merged/debug/drawable-mdpi/boton_image.png",
+        "source": "/home/victor/AndroidStudioProjects/FragmentBasics1/app/src/main/res/drawable-mdpi/boton_image.png"
+    },
+    {
+        "merged": "/home/victor/AndroidStudioProjects/FragmentBasics1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/victor/AndroidStudioProjects/FragmentBasics1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
